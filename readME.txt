@@ -43,6 +43,4 @@ Project Report was made using final model built.
 PowerPoint Presentation was done for project.
 Zoom Video was made to explain the project in depth.
 
-
-
  
