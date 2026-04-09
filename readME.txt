@@ -37,7 +37,6 @@ Project Mid evaluation
 Step 7 
 Instance was created on AWS Console 
 Deployment was done on AWS.
-
 Step 8 
 Project Report was made using final model built.
 PowerPoint Presentation was done for project.
