@@ -32,7 +32,7 @@ Step 6
 User Interface was made using Flask Framework.
 From this , we got our result on our local machine 
 
-Project Mid evaluation 
+Project Mid evaluation
 
 Step 7 
 Instance was created on AWS Console 
