@@ -2,7 +2,7 @@ Step 1
 Project Finalization
 "Walmart Store Sales Prediction"
 
-Step 2 
+Step 2
 Analysis of different datasets
 Dataset was chosen from kaggle 
 Study of finalized dataset for project
