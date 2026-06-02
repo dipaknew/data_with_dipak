@@ -14,7 +14,7 @@ Pre-processing was done by using EDA process
 Data Cleansing part was done & all the missing values were filled.
 Correlationship between all the independent variables w.r.t. dependent variables
 
-Project First evaluation 
+Project First evaluation
   
 Step 4 
 Coloumns showing maximum correlation were chosen for model building.
